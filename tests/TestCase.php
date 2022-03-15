@@ -2,9 +2,9 @@
 
 namespace Furatama\SpatiePkg\Tests;
 
+use Furatama\SpatiePkg\SpatiePkgServiceProvider;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
-use Furatama\SpatiePkg\SpatiePkgServiceProvider;
 
 class TestCase extends Orchestra
 {

@@ -2,9 +2,9 @@
 
 namespace Furatama\SpatiePkg;
 
+use Furatama\SpatiePkg\Commands\SpatiePkgCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Furatama\SpatiePkg\Commands\SpatiePkgCommand;
 
 class SpatiePkgServiceProvider extends PackageServiceProvider
 {
