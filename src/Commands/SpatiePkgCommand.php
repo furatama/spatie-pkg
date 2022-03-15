@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Furatama\SpatiePkg\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class SpatiePkgCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'spatie-pkg';
 
     public $description = 'My command';
 
